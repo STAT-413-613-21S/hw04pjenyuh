@@ -5,7 +5,7 @@
 #' @return plot
 #' @export myseq_plot
 #'
-#' @examples myseq_plot(data.frame(x = 2, y = 4, z = 3, n = 3:9)), myseq_plot(data.frame(2, 4, 3, 3:9))
+#' @examples myseq_plot(data.frame(x = 2, y = 4, z = 3, n = 3:9))
 myseq_plot <- function(input_df) {
 # Error checking
   if (!is.data.frame(input_df)) {

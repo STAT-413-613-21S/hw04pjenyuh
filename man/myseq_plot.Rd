@@ -16,5 +16,5 @@ plot
 Plot the output value of 'myseq_n'
 }
 \examples{
-myseq_plot(data.frame(x = 2, y = 4, z = 3, n = 3:9)), myseq_plot(data.frame(2, 4, 3, 3:9))
+myseq_plot(data.frame(x = 2, y = 4, z = 3, n = 3:9))
 }

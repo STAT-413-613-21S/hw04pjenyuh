@@ -24,6 +24,5 @@ Imports:
     ggplot2,
     tibble
 Config/testthat/edition: 3
-VignetteBuilder: knitr
 URL: https://github.com/jenyuh/hw04pjenyuh
 BugReports: https://github.com/jenyuh/hw04pjenyuh/issues
