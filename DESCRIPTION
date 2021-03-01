@@ -16,3 +16,7 @@ RoxygenNote: 7.1.1
 Suggests: 
     spelling
 Language: en-US
+Imports: 
+    magrittr,
+    ggplot2,
+    tibble
