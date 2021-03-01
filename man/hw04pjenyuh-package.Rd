@@ -11,8 +11,8 @@ What the package does (one paragraph).
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://github.com/jenyuh/hw04pjenyuh}
-  \item Report bugs at \url{https://github.com/jenyuh/hw04pjenyuh/issues}
+  \item \url{https://github.com/STAT-413-613-21S/hw04pjenyuh}
+  \item Report bugs at \url{https://github.com/STAT-413-613-21S/hw04pjenyuh/issues}
 }
 
 }
